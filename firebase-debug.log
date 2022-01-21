@@ -1,0 +1,21 @@
+[debug] [2022-01-21T03:25:35.478Z] ----------------------------------------------------------------------
+[debug] [2022-01-21T03:25:35.484Z] Command:       /home/fast/.nvm/versions/node/v14.4.0/bin/node /home/fast/.nvm/versions/node/v14.4.0/bin/firebase init
+[debug] [2022-01-21T03:25:35.485Z] CLI Version:   10.1.1
+[debug] [2022-01-21T03:25:35.485Z] Platform:      linux
+[debug] [2022-01-21T03:25:35.485Z] Node Version:  v14.4.0
+[debug] [2022-01-21T03:25:35.486Z] Time:          Fri Jan 21 2022 06:25:35 GMT+0300 (heure normale d’Afrique de l’Est)
+[debug] [2022-01-21T03:25:35.487Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-01-21T03:25:35.498Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-01-21T03:25:35.498Z] > authorizing via signed-in user (fastfabien56@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/fast/Perso/REACT/React & Firebase Exercice/todo-react-firebase
+
